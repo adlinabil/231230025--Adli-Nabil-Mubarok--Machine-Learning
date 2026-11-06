@@ -11,3 +11,5 @@ Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Penga
 - **Minggu 4:**
   - [PRAKTIKUM 1: STRUKTUR DATA LIST DAN DICTIONARY PYTHON](https://colab.research.google.com/github/adlinabil/231230025--Adli-Nabil-Mubarok--Machine-Learning/blob/main/PRAKTIKUM_1_STRUKTUR_DATA_LIST_DAN_DICTIONARY_PYTHON.ipynb)
   - [Praktikum 2: Komputasi Numerik dengan NumPy Array](https://colab.research.google.com/github/adlinabil/231230025--Adli-Nabil-Mubarok--Machine-Learning/blob/main/Praktikum_2_Komputasi_Numerik_dengan_NumPy_Array.ipynb)
+  - [](https://colab.research.google.com/github/adlinabil/231230025--Adli-Nabil-Mubarok--Machine-Learning/blob/main/)
+  - [](https://colab.research.google.com/github/adlinabil/231230025--Adli-Nabil-Mubarok--Machine-Learning/blob/main/)
