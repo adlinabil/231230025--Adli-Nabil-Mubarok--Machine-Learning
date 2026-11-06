@@ -1,4 +1,4 @@
-# [231230025] - Pengantar Machine Learning
+# [231230025] - Machine Learning
 
 **Nama:** [Adli Nabil Mubarok]
 **NIM:** [231230025]
