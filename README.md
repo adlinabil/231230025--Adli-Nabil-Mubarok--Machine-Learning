@@ -8,4 +8,6 @@ Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Penga
 
 ## Daftar Tugas
 - **Minggu 3:** [Setup Environment - Hello World](https://colab.research.google.com/github/adlinabil/231230025--Adli-Nabil-Mubarok--Pengantar-ML-/blob/main/Tugas_Minggu_3_Hello_World.ipynb)
-
+- **Minggu 4:**
+- [PRAKTIKUM 1: STRUKTUR DATA LIST DAN DICTIONARY PYTHON]()
+- 
